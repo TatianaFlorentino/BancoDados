@@ -27,6 +27,7 @@ montarmos um banco de dados! A empresa nos forneceu uma amostra do seu excel  (a
 ### Acesso ao Projeto
 
 ### Acesso ao Projeto
+[Comandos SQL](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
 
 ### Tecnologias utilizadas
 
