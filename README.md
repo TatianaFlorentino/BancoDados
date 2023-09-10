@@ -22,15 +22,29 @@ montarmos um banco de dados! A empresa nos forneceu uma amostra do seu excel  (a
 
 ### Status do Projeto
 
-### Funcionalidades e Demonstração da Aplicação
+### Demonstração da Aplicação
 
 
 ### Acesso ao Projeto
-[Comandos SQL](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
+* Montagem do banco de dados relacional, [Comandos SQL](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
+* [Criando um projeto na nuvem](https://www.youtube.com/watch?v=Z84HYnPf2TA) em 100 segundos
 
 ### Tecnologias utilizadas
+* Mysql
+* SQL
+* [railway](https://railway.app/)
 
 ### Etapas
+
+:heavy_check_mark: `Etapa 1:` Montagem do Banco Dados Relacional 
+
+:heavy_check_mark: `Etapa  2:` Criação de tabela
+
+:heavy_check_mark: `Etapa 3:` Inserção de dados
+
+:heavy_check_mark: `Etapa  4:` Selecionando os dados
+
+:heavy_check_mark: `Etapa  5:` Criando banco de dados na nuvem
 
 ### Conclusão
 
