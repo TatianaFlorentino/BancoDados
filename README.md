@@ -16,7 +16,7 @@ Link sobre os conceitos de banco de dados, [link](https://apps.univesp.br/novote
 
 
 ### Descrição do Projeto
-Case de Estudo - Empresa XZ
+Case de Estudo 
 A Empresa XZ , gostaria de começar a controlar suas vendas e nos contratou para 
 montarmos um banco de dados! A empresa nos forneceu uma amostra do seu excel  (assim como a modelagem - estão disponibilizados aqui...).
 
