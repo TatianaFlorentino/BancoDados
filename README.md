@@ -11,9 +11,9 @@
 * [Conclusão](#conclusão)
 
 ### Conceito do Banco de Dados
-Link sobre os conceitos de banco de dados, [link](https://apps.univesp.br/novotec/introducao-a-banco-de-dados)
-![image](https://github.com/TatianaFlorentino/BancoDados/assets/41309689/7a3370f8-218f-4e8e-b832-6c2b65af125f)
-[Conceito de Modelagem[(https://www.youtube.com/watch?v=3Oa-7y4hzM0)
+* Link sobre os conceitos de banco de dados gerenciamento, [link](https://apps.univesp.br/novotec/introducao-a-banco-de-dados)
+* ![image](https://github.com/TatianaFlorentino/BancoDados/assets/41309689/7a3370f8-218f-4e8e-b832-6c2b65af125f)
+* [Conceito de Modelagem[(https://www.youtube.com/watch?v=3Oa-7y4hzM0)
 
 ### Descrição do Projeto
 Case de Estudo 
