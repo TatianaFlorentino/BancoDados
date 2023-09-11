@@ -12,7 +12,6 @@
 
 ### Conceito do Banco de Dados
 * Link sobre os conceitos de banco de dados gerenciamento, [link](https://apps.univesp.br/novotec/introducao-a-banco-de-dados)
-* ![image](https://github.com/TatianaFlorentino/BancoDados/assets/41309689/7a3370f8-218f-4e8e-b832-6c2b65af125f)
 * [Conceito de Modelagem[(https://www.youtube.com/watch?v=3Oa-7y4hzM0)
 
 ### Descrição do Projeto
@@ -24,15 +23,19 @@ montarmos um banco de dados! A empresa nos forneceu uma amostra do seu excel  (a
 
 ### Demonstração da Aplicação
 
+![image](https://github.com/TatianaFlorentino/BancoDados/assets/41309689/24bb4682-1e11-4fb0-9137-e76065c4caf6)
+
 
 ### Acesso ao Projeto
-* Montagem do banco de dados relacional, [Comandos SQL](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
-* [Criando um projeto na nuvem](https://www.youtube.com/watch?v=Z84HYnPf2TA) em 100 segundos
+* Montagem do banco de dados relacional mysql em 10 minutos,
+* [Comandos SQL](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
+* [Criando uma tabela no banco de dados mysql]() em 50  segundos
+* Fazendo o mesmo processo montagem de banco de dados e criação de tabelas na nuvem com railway
 
 ### Tecnologias utilizadas
 * Mysql
 * SQL
-* [railway](https://railway.app/)
+  * [railway](https://railway.app/)
 
 ### Etapas
 
