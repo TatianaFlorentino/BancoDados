@@ -27,10 +27,10 @@ montarmos um banco de dados! A empresa nos forneceu uma amostra do seu excel  (a
 
 
 ### Acesso ao Projeto
-* Montagem do banco de dados relacional mysql em 10 minutos,
+* [Montagem do banco de dados relacional mysql em 10 minutos](https://github.com/TatianaFlorentino/BancoDados/blob/main/MYSQL%20-%20Montagem%20do%20banco%20de%20dados%20relacional.txt),
 * [Comandos SQL](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
 * [Criando uma tabela no banco de dados mysql]() em 50  segundos
-* Fazendo o mesmo processo montagem de banco de dados e criação de tabelas na nuvem com railway
+* Fazendo o mesmo processo montagem de banco de dados e criação de tabelas na nuvem com railway em 50 segundos tudo!
 
 ### Tecnologias utilizadas
 * Mysql
@@ -50,6 +50,7 @@ montarmos um banco de dados! A empresa nos forneceu uma amostra do seu excel  (a
 :heavy_check_mark: `Etapa  5:` Criando banco de dados na nuvem
 
 ### Conclusão
+
 
 ### Pessoas Contribuidoras
 
