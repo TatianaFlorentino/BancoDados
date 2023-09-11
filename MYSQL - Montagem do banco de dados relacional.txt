@@ -1,0 +1,46 @@
+Para baixar o MySQL, siga estas etapas:
+
+Acesse o site oficial do MySQL: https://dev.mysql.com/downloads/mysql/
+Role a página para baixo até encontrar a seção "MySQL Community (GPL) Downloads".
+Você verá diferentes versões do MySQL disponíveis para download. Escolha a que for mais adequada ao seu sistema operacional. 
+Geralmente, você encontrará opções para Windows, Linux e macOS.
+Clique no link de download para a versão que você escolheu.
+Se você estiver usando o Windows: Após o download, execute o instalador do MySQL. Ele será um arquivo executável com extensão .exe.
+Siga as instruções do instalador para configurar o MySQL no seu sistema.
+ Você será solicitado a configurar uma senha para o usuário "root" do MySQL durante o processo de instalação.
+
+
+Passo 2: Inicie o instalador:
+
+Depois de baixar o arquivo de instalação do MySQL, siga estas etapas:
+
+Execute o arquivo de instalação que você baixou.
+
+O instalador irá preparar os arquivos necessários.
+
+Na primeira tela do instalador, você verá a opção de "Tipo de Instalação". Escolha "Custom" para ter mais controle sobre as opções de instalação ou "Server Only" se desejar apenas instalar o servidor MySQL. Clique em "Next" (Próximo).
+
+Na próxima tela, você pode escolher os produtos adicionais a serem instalados, como o MySQL Workbench (uma ferramenta de gerenciamento visual). Selecione o que deseja instalar e clique em "Next" (Próximo).
+
+O instalador irá verificar as dependências e, em seguida, permitirá que você configure a instalação. Defina as configurações conforme suas necessidades. Isso inclui a configuração da senha para o usuário "root" do MySQL.
+
+Clique em "Next" (Próximo) após configurar as opções.
+
+O instalador mostrará um resumo das configurações escolhidas. Clique em "Execute" para iniciar a instalação.
+
+Aguarde enquanto o MySQL é instalado no seu sistema.
+
+Após a conclusão da instalação, você verá uma tela que indica o sucesso da instalação. Clique em "Finish" (Concluir).
+
+Passo 3: Inicie e configure o MySQL:
+
+Agora que o MySQL está instalado, você pode iniciar o serviço MySQL a partir do Painel de Controle do Windows ou por meio do "Serviços" no Gerenciador de Tarefas.
+
+Você também pode abrir o MySQL Workbench (se instalado) para começar a criar bancos de dados e gerenciar seu servidor MySQL.
+
+Pronto! O MySQL deve estar instalado e pronto para uso no seu sistema Windows. Certifique-se de manter a senha do usuário "root" segura, pois ela é fundamental 
+para administrar seu servidor MySQL. Você pode começar a criar bancos de dados e tabelas, inserir dados e executar consultas SQL usando uma ferramenta de sua escolha.
+
+
+
+
