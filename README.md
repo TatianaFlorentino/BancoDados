@@ -6,10 +6,12 @@
 * [Status do Projeto](#status-do-projeto)
 * [Demonstração da Aplicação](#demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Tecnologias e ferramentas utilizadas](#tecnologias-e-ferramentas-utilizadas)
 * [Funcionalidades](#funcionalidades)
 * [Conclusão](#conclusão)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Skills de Palavra Chave](#skills-de-palavra-chave)
+
 
 ### Conceito do Banco de Dados
 * Link sobre os conceitos de banco de dados gerenciamento, [link](https://apps.univesp.br/novotec/introducao-a-banco-de-dados)
@@ -90,6 +92,10 @@ Ao final do projeto, você deverá apresentar os resultados de suas consultas e 
 
 ### Conclusão
 Esse desafio permitiu demonstar  meu conhecimento em SQL, desde a criação de bancos de dados até a geração de insights valiosos para uma empresa fictícia de banco relacional.
+
+
+## Skills de Palavra Chave
+| Power BI | ELT | ETL | Power Query | DAX | SQL | Relacional | Banco de dados |  Git | GitHub |  DDL | DQL | DML | DCL | Segurança | Governança de Dados
 
 ### Pessoas Contribuidoras
 
