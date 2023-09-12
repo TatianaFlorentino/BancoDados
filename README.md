@@ -59,15 +59,22 @@ Ao final do projeto, você deverá apresentar os resultados de suas consultas e 
 
 ### Acesso ao Projeto
 * [Montagem do banco de dados relacional mysql em 10 minutos](https://github.com/TatianaFlorentino/BancoDados/blob/main/MYSQL%20-%20Montagem%20do%20banco%20de%20dados%20relacional.txt),
-* [Comandos SQL](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
-* [Criando uma tabela no banco de dados mysql]() em 50  segundos
-* Fazendo o mesmo processo montagem de banco de dados e criação de tabelas na nuvem com railway em 50 segundos tudo!
+* [Comandos SQL Genérico para testar o banco de dados](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
+* [Desafio 1]
+* [Desafio 2]
+* [Desafio 3]
+* [Desafio 4]
+* [Desafio 5]
 
-### Tecnologias utilizadas
-* Mysql
-* SQL
-* Power BI
 
+
+### Tecnologias e ferramentas utilizadas
+* Mysql: Banco de Dados Gerenciado. 
+* SQL: Linguagem para fazer querys.
+  
+* Power BI : Plataforma para geração dos relatórios.
+* DAX : linguagem DAX (Data Analysis Expressions) para criar medidas personalizadas que agreguem, calculem ou filtrem os dados de acordo com suas necessidades.
+* Power Query: Transformação de um processo ETL
 
 ### Funcionalidades
 
@@ -79,7 +86,7 @@ Ao final do projeto, você deverá apresentar os resultados de suas consultas e 
 
 :heavy_check_mark: `Desafio 4: Análise de Preços:` Querys SQL 
 
-:heavy_check_mark: `Relatórios Executivos:` Relatório Power BI - Consumindo dados do Mysql
+:heavy_check_mark: `Relatórios Executivos:` Relatório Power BI - Consumindo dados do Mysql com DAX e Power Query
 
 ### Conclusão
 Esse desafio permitiu demonstar  meu conhecimento em SQL, desde a criação de bancos de dados até a geração de insights valiosos para uma empresa fictícia de banco relacional.
