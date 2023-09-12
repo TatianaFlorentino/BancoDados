@@ -94,13 +94,17 @@ Ao final do projeto, você deverá apresentar os resultados de suas consultas e 
 :heavy_check_mark: `Relatórios Executivos:` Relatório Power BI - Consumindo dados do Mysql com DAX e Power Query
 
 ### Conclusão
-Esse desafio permitiu demonstar  meu conhecimento em SQL, desde a criação de bancos de dados até a geração de insights valiosos para uma empresa fictícia de banco relacional.
+Esse desafio permitiu demonstar  meu conhecimento em SQL, desde a criação de bancos de dados até a geração de insights valiosos para uma empresa fictícia de gerenciamento de banco relacional.
 
 
 ## Skills de Palavra Chave
 | Power BI | ELT | ETL | Power Query | DAX | SQL | Relacional | Banco de dados |  Git | GitHub |  DDL | DQL | DML | DCL | Segurança | Governança de Dados
 
 ### Pessoas Contribuidoras
+
+| [<img src="https://avatars.githubusercontent.com/tatianaflorentino?v=4" width=115><br><sub>Tatiana Florentino</sub>](https://github.com/TatianaFlorentino) | 
+
+<hr>
 
 
 
