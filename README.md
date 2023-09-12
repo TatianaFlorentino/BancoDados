@@ -57,6 +57,11 @@ Ao final do projeto, você deverá apresentar os resultados de suas consultas e 
 
 ### Status do Projeto
 
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=ANDAMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
+
+
 ### Demonstração da Aplicação
 
 ![image](https://github.com/TatianaFlorentino/BancoDados/assets/41309689/24bb4682-1e11-4fb0-9137-e76065c4caf6)
