@@ -1,3 +1,4 @@
+![image](https://github.com/TatianaFlorentino/BancoDados/assets/41309689/a96a6555-4df0-41ce-9821-6450b9c52c79)
 
 
 * [Conceito do Banco de Dados](#conceito-do-banco-de-dados)
@@ -19,6 +20,8 @@
 
 
 # Título do Case: Gerenciamento de Dados em uma Loja Virtual
+
+![image](https://github.com/TatianaFlorentino/BancoDados/assets/41309689/ddc32043-5573-4e90-8a81-414f19bf8ab9)
 
 ### Descrição do Projeto
 
