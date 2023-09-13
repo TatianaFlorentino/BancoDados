@@ -16,7 +16,7 @@
 
 ### Conceito do Banco de Dados
 * Link sobre os conceitos de banco de dados gerenciamento, [link](https://apps.univesp.br/novotec/introducao-a-banco-de-dados)
-* [Conceito de Modelagem[(https://www.youtube.com/watch?v=3Oa-7y4hzM0)
+* [Conceito de DDL,DQL,DML,DCL](https://www.youtube.com/watch?v=3Oa-7y4hzM0)
 
 
 # Título do Case: Gerenciamento de Dados em uma Loja Virtual
@@ -93,7 +93,7 @@ Ao final do projeto, você deverá apresentar os resultados de suas consultas e 
 
 
 ### Conclusão
-Esse desafio permitiu demonstar  meu conhecimento em SQL, desde a criação de bancos de dados até a geração de insights valiosos para uma empresa fictícia de gerenciamento de banco relacional.
+Esse desafio permitiu revisar conceitos e demonstrar  meu conhecimento em SQL, desde a criação de bancos de dados relacional, criação, alteração de tabelas e até a geração de insights valiosos para uma empresa fictícia de gerenciamento de banco relacional.
 
 
 ## Skills de Palavra Chave
