@@ -70,8 +70,9 @@ Ao final do projeto, você deverá apresentar os resultados de suas consultas e 
 ### Acesso ao Projeto
 * [Montagem do banco de dados relacional mysql em 10 minutos](https://github.com/TatianaFlorentino/BancoDados/blob/main/MYSQL%20-%20Montagem%20do%20banco%20de%20dados%20relacional.txt),
 * [Comandos SQL Genérico para testar o banco de dados](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
-* [Desafio 1]
-* [Desafio 2]
+* [Desafio 1 - Modelagem do Banco TechStore](https://github.com/TatianaFlorentino/BancoDados/blob/main/ER_TechStore.png)
+* [Desafio 1 - Script do Banco TechStore](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos_TechStore.sql)
+* [Desafio 2](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos_Desafio_2_Querys_TechStore.sql)
 * [Desafio 3]
 * [Desafio 4]
 * [Desafio 5]
