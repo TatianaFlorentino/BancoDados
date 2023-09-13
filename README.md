@@ -72,8 +72,8 @@ Ao final do projeto, você deverá apresentar os resultados de suas consultas e 
 * [Comandos SQL Genérico para testar o banco de dados](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos.sql)
 * [Desafio 1 - Modelagem do Banco TechStore](https://github.com/TatianaFlorentino/BancoDados/blob/main/ER_TechStore.png)
 * [Desafio 1 - Script do Banco TechStore](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos_TechStore.sql)
-* [Desafio 2 - Querys ](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos_Desafio_2_Querys_TechStore.sql)
-* [Desafio 3]
+* [Desafio 2 - Querys - Produto](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos_Desafio_2_Querys_TechStore.sql)
+* [Desafio 3 - Querys - Cliente](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos_Desafio_3_Querys_TechStore.txt)
 * [Desafio 4]
 
 
