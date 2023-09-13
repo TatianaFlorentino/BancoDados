@@ -15,9 +15,9 @@
 
 
 ### Conceito do Banco de Dados
-* Link sobre os conceitos de banco de dados gerenciamento, [link](https://apps.univesp.br/novotec/introducao-a-banco-de-dados)
+* Link sobre os conceitos de banco de dados relacional, [link](https://apps.univesp.br/novotec/introducao-a-banco-de-dados)
 * [Conceito de DDL,DQL,DML,DCL](https://www.youtube.com/watch?v=3Oa-7y4hzM0)
-
+* [Conceitos NOSQL](https://www.treinaweb.com.br/blog/sql-vs-nosql-qual-usar#:~:text=O%20NoSQL%20n%C3%A3o%20veio%20para,para%20diferentes%20casos%20de%20uso.)
 
 # Título do Case: Gerenciamento de Dados em uma Loja Virtual
 
