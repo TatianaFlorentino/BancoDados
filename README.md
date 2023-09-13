@@ -75,29 +75,22 @@ Ao final do projeto, você deverá apresentar os resultados de suas consultas e 
 * [Desafio 2 - Querys ](https://github.com/TatianaFlorentino/BancoDados/blob/main/Comandos_Desafio_2_Querys_TechStore.sql)
 * [Desafio 3]
 * [Desafio 4]
-* [Desafio 5]
-
 
 
 ### Tecnologias e ferramentas utilizadas
 * Mysql: Banco de Dados Gerenciado. 
 * SQL: Linguagem para fazer querys.
-  
-* Power BI : Plataforma para geração dos relatórios.
-* DAX : linguagem DAX (Data Analysis Expressions) para criar medidas personalizadas que agreguem, calculem ou filtrem os dados de acordo com suas necessidades.
-* Power Query: Transformação de um processo ETL
-
+ 
 ### Funcionalidades
 
-:heavy_check_mark: `Desafio 1 - Gerenciamento de Produtos` Instalação de Banco Dados Relacional Musql e Modelagem 
+:heavy_check_mark: `Desafio 1 - Gerenciamento de Produtos` Instalação de Banco Dados Relacional Musql e Criação de tabelas e Inserção dos dados - SQL  
 
-:heavy_check_mark: `Desafio 2: Registro de Vendas:` Criação de tabelas e querys SQL
+:heavy_check_mark: `Desafio 2: Registro de Vendas:` Criação de tabelas e Inserção dos dados - SQL  
 
-:heavy_check_mark: `Desafio 3: Gerenciamento de Clientes:` Inserção dos dados e querys SQL
+:heavy_check_mark: `Desafio 3: Gerenciamento de Clientes:` Querys SQL Respondendo inferências
 
-:heavy_check_mark: `Desafio 4: Análise de Preços:` Querys SQL 
+:heavy_check_mark: `Desafio 4: Análise de Preços:` Querys SQL Respondendo inferências
 
-:heavy_check_mark: `Relatórios Executivos:` Relatório Power BI - Consumindo dados do Mysql com DAX e Power Query
 
 ### Conclusão
 Esse desafio permitiu demonstar  meu conhecimento em SQL, desde a criação de bancos de dados até a geração de insights valiosos para uma empresa fictícia de gerenciamento de banco relacional.
