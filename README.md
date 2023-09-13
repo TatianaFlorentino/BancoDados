@@ -50,9 +50,9 @@ A empresa está enfrentando alguns desafios em relação ao gerenciamento de dad
 
 ## Tarefas
 
- Tarefa é usar **SQL** para criar consultas e relatórios que abordem cada um desses desafios. Você precisará projetar bancos de dados apropriados, escrever consultas eficazes e criar relatórios que sejam fáceis de entender para a equipe executiva da TechStore.
+ Tarefa é usar **SQL** para criar consultas e relatórios que abordem cada um desses desafios.  Precisará projetar bancos de dados apropriados, escrever consultas eficazes e criar relatórios que sejam fáceis de entender para a equipe executiva da TechStore.
 
-Ao final do projeto, você deverá apresentar os resultados de suas consultas e relatórios à equipe de gerenciamento da TechStore, demonstrando como suas soluções melhoraram o **gerenciamento de dados** e a tomada de decisões na empresa.
+Ao final do projeto,  deverá apresentar os resultados de suas consultas à equipe de gerenciamento da TechStore, demonstrando como suas soluções melhoraram o **gerenciamento de dados** e a tomada de decisões na empresa.
 
 
 ### Status do Projeto
